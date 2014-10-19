@@ -10,7 +10,7 @@
 
     <WebView
         android:layout_width="fill_parent"
-        android:layout_height="800px"
+        android:layout_height="700px"
         android:id="@+id/webView"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"/>
@@ -21,7 +21,7 @@
         android:layout_height="wrap_content"
         android:text="Next Kitty"
         android:id="@+id/next"
-        android:layout_marginBottom="17dp"
+        android:layout_marginBottom="40dp"
         android:clickable="true"
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="false"
